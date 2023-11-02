@@ -1,0 +1,31 @@
+C:\Users\Lenovo\OneDrive - University of Cape Town\University\Second Year\Semester 2\CSC2002S\Assignment2\src>git log
+commit 0d0e1b24d62dd739bf51d3fd2ddbcfe5961419f5 (HEAD -> master)
+Author: unknown <yachyaat@gmail.com>
+Date:   Sun Aug 28 02:18:02 2022 +0200
+
+    Makefile added
+
+commit 68f39b2442bb5ba3208e86b5edfe3c0c801ddf43
+Author: unknown <yachyaat@gmail.com>
+Date:   Sun Aug 28 01:59:47 2022 +0200
+
+    Final Version Complete
+
+commit 0b5206764222168ba342a66af474486f068b5bf2
+Author: unknown <yachyaat@gmail.com>
+Date:   Fri Aug 26 16:29:15 2022 +0200
+
+    Hungry Word moving
+
+commit f37f80a1401958e94f58b08fa02be160df8ebee0
+Author: unknown <yachyaat@gmail.com>
+Date:   Thu Aug 25 14:21:51 2022 +0200
+
+    Hungry Mover Added
+
+commit 31063bbacac8a2dd2b3878ab89ece1a29b9a9c6d
+Author: unknown <yachyaat@gmail.com>
+Date:   Thu Aug 25 11:05:14 2022 +0200
+
+    HungryWord First Version
+:
