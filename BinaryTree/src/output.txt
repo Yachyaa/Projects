@@ -1,0 +1,23 @@
+Find last character
+insertion: 274623
+finds: 26
+insertion: 267897
+finds: 28
+insertion: 264779
+finds: 30
+insertion: 260979
+finds: 32
+insertion: 256459
+finds: 26
+insertion: 252331
+finds: 30
+insertion: 251727
+finds: 32
+insertion: 249915
+finds: 32
+insertion: 250177
+finds: 24
+insertion: 249181
+finds: 22
+
+Find first character:
